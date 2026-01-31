@@ -9,7 +9,7 @@ const form = document.querySelector('.search-form');
 const gallery = document.querySelector('.gallery');
 const loader = document.querySelector('.loader');
 
-const API_KEY = 'BURAYA_PIXABAY_API_KEY_YAZ';
+const API_KEY = '54460001-4340b48267dd4c07393208eaa';
 const BASE_URL = 'https://pixabay.com/api/';
 
 const lightbox = new SimpleLightbox('.gallery a');
